@@ -8,7 +8,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # تنظیمات
-BOT_TOKEN = "8153826365:AAHajypwFzT1V9FTWf7FVsLs5Ei93P2fYzs"
+BOT_TOKEN = "8379924718:AAFv9VElhPztw4Hna5E501kvzt0HaF8nnh0"
 ADMIN_ID = 7980934803
 ADMINS = {ADMIN_ID}
 
